@@ -1,0 +1,15 @@
+D:\Thais\Documentos\Beecrowd\1014_Consumo\bin\Debug\net6.0\1014_Consumo.exe
+D:\Thais\Documentos\Beecrowd\1014_Consumo\bin\Debug\net6.0\1014_Consumo.deps.json
+D:\Thais\Documentos\Beecrowd\1014_Consumo\bin\Debug\net6.0\1014_Consumo.runtimeconfig.json
+D:\Thais\Documentos\Beecrowd\1014_Consumo\bin\Debug\net6.0\1014_Consumo.dll
+D:\Thais\Documentos\Beecrowd\1014_Consumo\bin\Debug\net6.0\1014_Consumo.pdb
+D:\Thais\Documentos\Beecrowd\1014_Consumo\obj\Debug\net6.0\1014_Consumo.csproj.AssemblyReference.cache
+D:\Thais\Documentos\Beecrowd\1014_Consumo\obj\Debug\net6.0\1014_Consumo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thais\Documentos\Beecrowd\1014_Consumo\obj\Debug\net6.0\1014_Consumo.AssemblyInfoInputs.cache
+D:\Thais\Documentos\Beecrowd\1014_Consumo\obj\Debug\net6.0\1014_Consumo.AssemblyInfo.cs
+D:\Thais\Documentos\Beecrowd\1014_Consumo\obj\Debug\net6.0\1014_Consumo.csproj.CoreCompileInputs.cache
+D:\Thais\Documentos\Beecrowd\1014_Consumo\obj\Debug\net6.0\1014_Consumo.dll
+D:\Thais\Documentos\Beecrowd\1014_Consumo\obj\Debug\net6.0\refint\1014_Consumo.dll
+D:\Thais\Documentos\Beecrowd\1014_Consumo\obj\Debug\net6.0\1014_Consumo.pdb
+D:\Thais\Documentos\Beecrowd\1014_Consumo\obj\Debug\net6.0\1014_Consumo.genruntimeconfig.cache
+D:\Thais\Documentos\Beecrowd\1014_Consumo\obj\Debug\net6.0\ref\1014_Consumo.dll

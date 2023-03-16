@@ -1,0 +1,15 @@
+D:\Thais\Documentos\Beecrowd\1016_Distancia\obj\Debug\net6.0\1016_Distancia.csproj.AssemblyReference.cache
+D:\Thais\Documentos\Beecrowd\1016_Distancia\obj\Debug\net6.0\1016_Distancia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thais\Documentos\Beecrowd\1016_Distancia\obj\Debug\net6.0\1016_Distancia.AssemblyInfoInputs.cache
+D:\Thais\Documentos\Beecrowd\1016_Distancia\obj\Debug\net6.0\1016_Distancia.AssemblyInfo.cs
+D:\Thais\Documentos\Beecrowd\1016_Distancia\obj\Debug\net6.0\1016_Distancia.csproj.CoreCompileInputs.cache
+D:\Thais\Documentos\Beecrowd\1016_Distancia\bin\Debug\net6.0\1016_Distancia.exe
+D:\Thais\Documentos\Beecrowd\1016_Distancia\bin\Debug\net6.0\1016_Distancia.deps.json
+D:\Thais\Documentos\Beecrowd\1016_Distancia\bin\Debug\net6.0\1016_Distancia.runtimeconfig.json
+D:\Thais\Documentos\Beecrowd\1016_Distancia\bin\Debug\net6.0\1016_Distancia.dll
+D:\Thais\Documentos\Beecrowd\1016_Distancia\bin\Debug\net6.0\1016_Distancia.pdb
+D:\Thais\Documentos\Beecrowd\1016_Distancia\obj\Debug\net6.0\1016_Distancia.dll
+D:\Thais\Documentos\Beecrowd\1016_Distancia\obj\Debug\net6.0\refint\1016_Distancia.dll
+D:\Thais\Documentos\Beecrowd\1016_Distancia\obj\Debug\net6.0\1016_Distancia.pdb
+D:\Thais\Documentos\Beecrowd\1016_Distancia\obj\Debug\net6.0\1016_Distancia.genruntimeconfig.cache
+D:\Thais\Documentos\Beecrowd\1016_Distancia\obj\Debug\net6.0\ref\1016_Distancia.dll
