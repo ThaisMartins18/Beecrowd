@@ -1,0 +1,15 @@
+D:\Thais\Documentos\Beecrowd\1017_GastoCombustivel\bin\Debug\net6.0\1017_GastoCombustivel.exe
+D:\Thais\Documentos\Beecrowd\1017_GastoCombustivel\bin\Debug\net6.0\1017_GastoCombustivel.deps.json
+D:\Thais\Documentos\Beecrowd\1017_GastoCombustivel\bin\Debug\net6.0\1017_GastoCombustivel.runtimeconfig.json
+D:\Thais\Documentos\Beecrowd\1017_GastoCombustivel\bin\Debug\net6.0\1017_GastoCombustivel.dll
+D:\Thais\Documentos\Beecrowd\1017_GastoCombustivel\bin\Debug\net6.0\1017_GastoCombustivel.pdb
+D:\Thais\Documentos\Beecrowd\1017_GastoCombustivel\obj\Debug\net6.0\1017_GastoCombustivel.csproj.AssemblyReference.cache
+D:\Thais\Documentos\Beecrowd\1017_GastoCombustivel\obj\Debug\net6.0\1017_GastoCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thais\Documentos\Beecrowd\1017_GastoCombustivel\obj\Debug\net6.0\1017_GastoCombustivel.AssemblyInfoInputs.cache
+D:\Thais\Documentos\Beecrowd\1017_GastoCombustivel\obj\Debug\net6.0\1017_GastoCombustivel.AssemblyInfo.cs
+D:\Thais\Documentos\Beecrowd\1017_GastoCombustivel\obj\Debug\net6.0\1017_GastoCombustivel.csproj.CoreCompileInputs.cache
+D:\Thais\Documentos\Beecrowd\1017_GastoCombustivel\obj\Debug\net6.0\1017_GastoCombustivel.dll
+D:\Thais\Documentos\Beecrowd\1017_GastoCombustivel\obj\Debug\net6.0\refint\1017_GastoCombustivel.dll
+D:\Thais\Documentos\Beecrowd\1017_GastoCombustivel\obj\Debug\net6.0\1017_GastoCombustivel.pdb
+D:\Thais\Documentos\Beecrowd\1017_GastoCombustivel\obj\Debug\net6.0\1017_GastoCombustivel.genruntimeconfig.cache
+D:\Thais\Documentos\Beecrowd\1017_GastoCombustivel\obj\Debug\net6.0\ref\1017_GastoCombustivel.dll

@@ -1,0 +1,15 @@
+D:\Thais\Documentos\Beecrowd\1015_DistanciaDoisPontos\bin\Debug\net6.0\1015_DistanciaDoisPontos.exe
+D:\Thais\Documentos\Beecrowd\1015_DistanciaDoisPontos\bin\Debug\net6.0\1015_DistanciaDoisPontos.deps.json
+D:\Thais\Documentos\Beecrowd\1015_DistanciaDoisPontos\bin\Debug\net6.0\1015_DistanciaDoisPontos.runtimeconfig.json
+D:\Thais\Documentos\Beecrowd\1015_DistanciaDoisPontos\bin\Debug\net6.0\1015_DistanciaDoisPontos.dll
+D:\Thais\Documentos\Beecrowd\1015_DistanciaDoisPontos\bin\Debug\net6.0\1015_DistanciaDoisPontos.pdb
+D:\Thais\Documentos\Beecrowd\1015_DistanciaDoisPontos\obj\Debug\net6.0\1015_DistanciaDoisPontos.csproj.AssemblyReference.cache
+D:\Thais\Documentos\Beecrowd\1015_DistanciaDoisPontos\obj\Debug\net6.0\1015_DistanciaDoisPontos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thais\Documentos\Beecrowd\1015_DistanciaDoisPontos\obj\Debug\net6.0\1015_DistanciaDoisPontos.AssemblyInfoInputs.cache
+D:\Thais\Documentos\Beecrowd\1015_DistanciaDoisPontos\obj\Debug\net6.0\1015_DistanciaDoisPontos.AssemblyInfo.cs
+D:\Thais\Documentos\Beecrowd\1015_DistanciaDoisPontos\obj\Debug\net6.0\1015_DistanciaDoisPontos.csproj.CoreCompileInputs.cache
+D:\Thais\Documentos\Beecrowd\1015_DistanciaDoisPontos\obj\Debug\net6.0\1015_DistanciaDoisPontos.dll
+D:\Thais\Documentos\Beecrowd\1015_DistanciaDoisPontos\obj\Debug\net6.0\refint\1015_DistanciaDoisPontos.dll
+D:\Thais\Documentos\Beecrowd\1015_DistanciaDoisPontos\obj\Debug\net6.0\1015_DistanciaDoisPontos.pdb
+D:\Thais\Documentos\Beecrowd\1015_DistanciaDoisPontos\obj\Debug\net6.0\1015_DistanciaDoisPontos.genruntimeconfig.cache
+D:\Thais\Documentos\Beecrowd\1015_DistanciaDoisPontos\obj\Debug\net6.0\ref\1015_DistanciaDoisPontos.dll
