@@ -1,0 +1,15 @@
+D:\Thais\Documentos\Beecrowd\1019_ConversaoTempo\bin\Debug\net6.0\1019_ConversaoTempo.exe
+D:\Thais\Documentos\Beecrowd\1019_ConversaoTempo\bin\Debug\net6.0\1019_ConversaoTempo.deps.json
+D:\Thais\Documentos\Beecrowd\1019_ConversaoTempo\bin\Debug\net6.0\1019_ConversaoTempo.runtimeconfig.json
+D:\Thais\Documentos\Beecrowd\1019_ConversaoTempo\bin\Debug\net6.0\1019_ConversaoTempo.dll
+D:\Thais\Documentos\Beecrowd\1019_ConversaoTempo\bin\Debug\net6.0\1019_ConversaoTempo.pdb
+D:\Thais\Documentos\Beecrowd\1019_ConversaoTempo\obj\Debug\net6.0\1019_ConversaoTempo.csproj.AssemblyReference.cache
+D:\Thais\Documentos\Beecrowd\1019_ConversaoTempo\obj\Debug\net6.0\1019_ConversaoTempo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thais\Documentos\Beecrowd\1019_ConversaoTempo\obj\Debug\net6.0\1019_ConversaoTempo.AssemblyInfoInputs.cache
+D:\Thais\Documentos\Beecrowd\1019_ConversaoTempo\obj\Debug\net6.0\1019_ConversaoTempo.AssemblyInfo.cs
+D:\Thais\Documentos\Beecrowd\1019_ConversaoTempo\obj\Debug\net6.0\1019_ConversaoTempo.csproj.CoreCompileInputs.cache
+D:\Thais\Documentos\Beecrowd\1019_ConversaoTempo\obj\Debug\net6.0\1019_ConversaoTempo.dll
+D:\Thais\Documentos\Beecrowd\1019_ConversaoTempo\obj\Debug\net6.0\refint\1019_ConversaoTempo.dll
+D:\Thais\Documentos\Beecrowd\1019_ConversaoTempo\obj\Debug\net6.0\1019_ConversaoTempo.pdb
+D:\Thais\Documentos\Beecrowd\1019_ConversaoTempo\obj\Debug\net6.0\1019_ConversaoTempo.genruntimeconfig.cache
+D:\Thais\Documentos\Beecrowd\1019_ConversaoTempo\obj\Debug\net6.0\ref\1019_ConversaoTempo.dll

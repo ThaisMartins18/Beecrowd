@@ -1,0 +1,15 @@
+D:\Thais\Documentos\Beecrowd\1020_IdadeDias\bin\Debug\net6.0\1020_IdadeDias.exe
+D:\Thais\Documentos\Beecrowd\1020_IdadeDias\bin\Debug\net6.0\1020_IdadeDias.deps.json
+D:\Thais\Documentos\Beecrowd\1020_IdadeDias\bin\Debug\net6.0\1020_IdadeDias.runtimeconfig.json
+D:\Thais\Documentos\Beecrowd\1020_IdadeDias\bin\Debug\net6.0\1020_IdadeDias.dll
+D:\Thais\Documentos\Beecrowd\1020_IdadeDias\bin\Debug\net6.0\1020_IdadeDias.pdb
+D:\Thais\Documentos\Beecrowd\1020_IdadeDias\obj\Debug\net6.0\1020_IdadeDias.csproj.AssemblyReference.cache
+D:\Thais\Documentos\Beecrowd\1020_IdadeDias\obj\Debug\net6.0\1020_IdadeDias.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thais\Documentos\Beecrowd\1020_IdadeDias\obj\Debug\net6.0\1020_IdadeDias.AssemblyInfoInputs.cache
+D:\Thais\Documentos\Beecrowd\1020_IdadeDias\obj\Debug\net6.0\1020_IdadeDias.AssemblyInfo.cs
+D:\Thais\Documentos\Beecrowd\1020_IdadeDias\obj\Debug\net6.0\1020_IdadeDias.csproj.CoreCompileInputs.cache
+D:\Thais\Documentos\Beecrowd\1020_IdadeDias\obj\Debug\net6.0\1020_IdadeDias.dll
+D:\Thais\Documentos\Beecrowd\1020_IdadeDias\obj\Debug\net6.0\refint\1020_IdadeDias.dll
+D:\Thais\Documentos\Beecrowd\1020_IdadeDias\obj\Debug\net6.0\1020_IdadeDias.pdb
+D:\Thais\Documentos\Beecrowd\1020_IdadeDias\obj\Debug\net6.0\1020_IdadeDias.genruntimeconfig.cache
+D:\Thais\Documentos\Beecrowd\1020_IdadeDias\obj\Debug\net6.0\ref\1020_IdadeDias.dll
