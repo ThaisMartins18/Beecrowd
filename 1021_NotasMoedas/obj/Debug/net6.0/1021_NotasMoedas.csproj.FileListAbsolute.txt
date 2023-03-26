@@ -1,0 +1,15 @@
+D:\Thais\Documentos\Beecrowd\1021_NotasMoedas\obj\Debug\net6.0\1021_NotasMoedas.csproj.AssemblyReference.cache
+D:\Thais\Documentos\Beecrowd\1021_NotasMoedas\obj\Debug\net6.0\1021_NotasMoedas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thais\Documentos\Beecrowd\1021_NotasMoedas\obj\Debug\net6.0\1021_NotasMoedas.AssemblyInfoInputs.cache
+D:\Thais\Documentos\Beecrowd\1021_NotasMoedas\obj\Debug\net6.0\1021_NotasMoedas.AssemblyInfo.cs
+D:\Thais\Documentos\Beecrowd\1021_NotasMoedas\obj\Debug\net6.0\1021_NotasMoedas.csproj.CoreCompileInputs.cache
+D:\Thais\Documentos\Beecrowd\1021_NotasMoedas\bin\Debug\net6.0\1021_NotasMoedas.exe
+D:\Thais\Documentos\Beecrowd\1021_NotasMoedas\bin\Debug\net6.0\1021_NotasMoedas.deps.json
+D:\Thais\Documentos\Beecrowd\1021_NotasMoedas\bin\Debug\net6.0\1021_NotasMoedas.runtimeconfig.json
+D:\Thais\Documentos\Beecrowd\1021_NotasMoedas\bin\Debug\net6.0\1021_NotasMoedas.dll
+D:\Thais\Documentos\Beecrowd\1021_NotasMoedas\bin\Debug\net6.0\1021_NotasMoedas.pdb
+D:\Thais\Documentos\Beecrowd\1021_NotasMoedas\obj\Debug\net6.0\1021_NotasMoedas.dll
+D:\Thais\Documentos\Beecrowd\1021_NotasMoedas\obj\Debug\net6.0\refint\1021_NotasMoedas.dll
+D:\Thais\Documentos\Beecrowd\1021_NotasMoedas\obj\Debug\net6.0\1021_NotasMoedas.pdb
+D:\Thais\Documentos\Beecrowd\1021_NotasMoedas\obj\Debug\net6.0\1021_NotasMoedas.genruntimeconfig.cache
+D:\Thais\Documentos\Beecrowd\1021_NotasMoedas\obj\Debug\net6.0\ref\1021_NotasMoedas.dll

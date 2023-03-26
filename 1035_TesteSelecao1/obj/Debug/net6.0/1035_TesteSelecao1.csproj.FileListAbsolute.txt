@@ -1,0 +1,15 @@
+D:\Thais\Documentos\Beecrowd\1035_TesteSelecao1\obj\Debug\net6.0\1035_TesteSelecao1.csproj.AssemblyReference.cache
+D:\Thais\Documentos\Beecrowd\1035_TesteSelecao1\obj\Debug\net6.0\1035_TesteSelecao1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thais\Documentos\Beecrowd\1035_TesteSelecao1\obj\Debug\net6.0\1035_TesteSelecao1.AssemblyInfoInputs.cache
+D:\Thais\Documentos\Beecrowd\1035_TesteSelecao1\obj\Debug\net6.0\1035_TesteSelecao1.AssemblyInfo.cs
+D:\Thais\Documentos\Beecrowd\1035_TesteSelecao1\obj\Debug\net6.0\1035_TesteSelecao1.csproj.CoreCompileInputs.cache
+D:\Thais\Documentos\Beecrowd\1035_TesteSelecao1\bin\Debug\net6.0\1035_TesteSelecao1.exe
+D:\Thais\Documentos\Beecrowd\1035_TesteSelecao1\bin\Debug\net6.0\1035_TesteSelecao1.deps.json
+D:\Thais\Documentos\Beecrowd\1035_TesteSelecao1\bin\Debug\net6.0\1035_TesteSelecao1.runtimeconfig.json
+D:\Thais\Documentos\Beecrowd\1035_TesteSelecao1\bin\Debug\net6.0\1035_TesteSelecao1.dll
+D:\Thais\Documentos\Beecrowd\1035_TesteSelecao1\bin\Debug\net6.0\1035_TesteSelecao1.pdb
+D:\Thais\Documentos\Beecrowd\1035_TesteSelecao1\obj\Debug\net6.0\1035_TesteSelecao1.dll
+D:\Thais\Documentos\Beecrowd\1035_TesteSelecao1\obj\Debug\net6.0\refint\1035_TesteSelecao1.dll
+D:\Thais\Documentos\Beecrowd\1035_TesteSelecao1\obj\Debug\net6.0\1035_TesteSelecao1.pdb
+D:\Thais\Documentos\Beecrowd\1035_TesteSelecao1\obj\Debug\net6.0\1035_TesteSelecao1.genruntimeconfig.cache
+D:\Thais\Documentos\Beecrowd\1035_TesteSelecao1\obj\Debug\net6.0\ref\1035_TesteSelecao1.dll
